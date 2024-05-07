@@ -1,8 +1,5 @@
 # Microservices_and_Communication_using_RabbitMQ
 
-# PES2UG21CS413_PES2UG21CS419_PES2UG21CS424_PES2UG21CS425_Microservices-communication-using-RabbitMQ
-
-
 run : docker-compose up --build
 
 producer:
